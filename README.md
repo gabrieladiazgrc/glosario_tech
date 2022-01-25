@@ -5,12 +5,12 @@
 - Algoritmo:
 - API:
 - Array:
-- Arreglo O Array:
 
 ##### B
 
 - **Backend:** Es la parte no visible del sistema la cual se ejecuta en el servidor, encargada de almacenar toda la información introducida por los usuarios en bases de datos, de traer los datos desde la base de datos hasta el frontend y de transmitir datos de una aplicación a otra. Algunos lenguajes de programación backend populares son Python, Ruby, JS, PHP, etcétera.
 - Bug:
+- **Base de datos:** Es un espacio en el que se almacena información que será necesitada a futuro. Algunos motores de bases de datos populares son: SQL Server, MariaDB, PostgreSQL y Oracle.
 
 ##### C
 
@@ -45,7 +45,7 @@
 
 ##### F
 
-- For
+- **For:** Sentencia de Python utilizada para crear bucles, generalmente usado cuando se sabe la cantidad de veces que se quiera repetir dicho bucle.
 - For Each
 - Fork
 - Framework
@@ -72,11 +72,12 @@
 
 ##### I
 
-- IDE
+- **IDE:** Software tipo editor de texto que soporta diferentes lenguajes de programación, permite la detección de errores, detección de sintaxis y en algunas ocasiones conectar con servicios como GIT.
 - IP
 - Issue
 
 ##### J
+
 - JSON
 
 ##### K
@@ -145,8 +146,6 @@
 - UX
 
 ##### V
-- Variable
-- Variable
 - Variable
 - VS Plugins
 
