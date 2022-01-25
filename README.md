@@ -56,7 +56,7 @@
 ##### G
 
 - Get
-- Git 
+- **Git:** Sistema distribuido de control de versiones open-source el cual permite a sus usuarios almacenar diferentes versiones del código de un proyecto por medio de *ramas* (branches), asegurandose de que no existan conflictos en el código editado por varios contribuidores.
 - GitHub
 - Graphql
 
