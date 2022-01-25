@@ -1,7 +1,7 @@
 ### Glosario
 ##### A
 
-- Agile:
+- **Agile:** Es un marco de trabajo y conjunto de prácticas basado en el Manifesto Ágil, el cual describe 4 valores y 12 principios por los que los equipos se rigen para propocionar valor a sus clientes de manera más rápida.
 - Algoritmo:
 - API:
 - Array:
@@ -9,8 +9,8 @@
 
 ##### B
 
-- Backend
-- Bug
+- **Backend:** Es la parte no visible del sistema la cual se ejecuta en el servidor, encargada de almacenar toda la información introducida por los usuarios en bases de datos, de traer los datos desde la base de datos hasta el frontend y de transmitir datos de una aplicación a otra. Algunos lenguajes de programación backend populares son Python, Ruby, JS, PHP, etcétera.
+- Bug:
 
 ##### C
 
@@ -49,7 +49,7 @@
 - For Each
 - Fork
 - Framework
-- Frontend
+- **Frontend:** Consiste en la parte del código con la que los usuarios interactúan para poder utilizar una aplicación, trabaja a la par del backend solicitando la información que el usuario solicita o enviando la información que el usuario quiere guardar para usarla después. Cuando hablamos de frontend web este es usado desde el navegador, sin embargo, también existe el frontend móvil que ejecuta su contenido en dispositivos móviles. Los lenguajes de programación frontend más populares son: HTML, CSS, JS, Swift, Dart, etcétera. 
 - Full Stack
 - Función
 
@@ -67,7 +67,7 @@
 - Headers
 - Hostear
 - Hosting
-- HTML
+- **HTML:** El Lenguaje De Marcado (Markup Language) estándar para páginas web. 
 - HTTP
 
 ##### I
@@ -118,7 +118,7 @@
 
 ##### R
 
-- Repositorio
+- **Repositorio:** Consiste en una colección de archivos y carpetas asociadas a un proyecto de Git, así como una revisión de la historia de versiones de cada documento. Cada una de las versiones son denominadas *commits*. 
 - Request
 - Responsive
 - REST
@@ -161,3 +161,8 @@
 ##### Z
 
 ##### Referencias
+
+- https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+- https://www.atlassian.com/es/agile
+- https://blog.padawan.dev/kit-basico-para-desarrolladores/
+- 
